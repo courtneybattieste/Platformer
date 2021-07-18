@@ -7,5 +7,7 @@ Here's a preview of the game:
 
 
 The tools used were: 
- Visual Studio
- Audacity
+
+-Visual Studio
+
+-Audacity
